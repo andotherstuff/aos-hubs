@@ -1,6 +1,6 @@
 # Intake Flow
 
-We keep our intake process as lightweight as possible. Most interest comes in through a simple form on our website, which is wired to Formspree or a similar service.
+We keep our intake process as lightweight as possible. Most interest comes in through a simple form on our website.
 
 ## What We Ask For
 
