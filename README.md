@@ -12,7 +12,13 @@ The **AOS Hubs** model is how we organize that work:
 
 This repository documents how we do that in public. It’s our operating manual, our invitation to collaborate, and a reference you can fork, adapt, or critique.
 
----
+## Who This Is For
+
+- **Founders and builders** who want to understand how AOS engages with projects.
+- **Contributors and service providers** who want to plug into the ecosystem in a safe, transparent way.
+- **Other collectives and communities** who want to borrow or remix parts of our model.
+
+You don’t need permission to read this, adapt it, or learn from it. That’s the point.
 
 ## How This Repository Is Organized
 
@@ -22,14 +28,3 @@ This repository documents how we do that in public. It’s our operating manual,
 - [`studio/`](./studio/) – how we maintain our ecosystem Rolodex, what kinds of services exist, and how projects request support.
 
 Everything here is written in the first person because this is how *we* work today. It will keep evolving. If you see ways to improve it, please open an issue or a pull request.
-
----
-
-## Who This Is For
-
-- **Founders and builders** who want to understand how AOS engages with projects.
-- **Contributors and service providers** who want to plug into the ecosystem in a safe, transparent way.
-- **Other collectives and communities** who want to borrow or remix parts of our model.
-
-You don’t need permission to read this, adapt it, or learn from it. That’s the point.
-
