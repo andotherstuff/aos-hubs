@@ -48,7 +48,7 @@ This ensures the documentation remains open, remixable, and accessible to the ec
 
 ## Code of Conduct
 
-All contributors must uphold AOS values:
+We expect all contributors to uphold AOS values:
 
 - respect for users, especially those in high-risk contexts  
 - commitment to openness and transparency  
