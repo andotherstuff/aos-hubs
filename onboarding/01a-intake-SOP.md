@@ -31,7 +31,7 @@ Record each submission in the intake tracker, including:
 
 **Timeline: Within 1 week of submission**
 
-Send a brief acknowledgment using the template in [05-response-templates.md](./05-response-templates.md):
+Send a brief acknowledgment (see internal templates):
 
 - Thank them for reaching out
 - Confirm receipt of their submission
@@ -59,7 +59,7 @@ Apply the framework in [02-triage-framework.md](./02-triage-framework.md) to det
 ### Edge cases
 - Too vague → Request clarification or invite to Lab convening
 - Out of scope → Polite decline with alternative suggestions
-- High-risk context → Apply privacy protocols (see [06-privacy-safety-guide.md](./06-privacy-safety-guide.md))
+- High-risk context → Apply privacy protocols (see [05-privacy-safety-guide.md](./05-privacy-safety-guide.md))
 
 ## 4. Internal Review
 
@@ -74,7 +74,7 @@ Share submission with intake reviewers before finalizing triage:
 
 **Timeline: Within 1 week of triage decision**
 
-If Discovery is needed, send invitation using the template in [05-response-templates.md](./05-response-templates.md).
+If Discovery is needed, send invitation (see internal templates).
 
 Offer:
 - Video/audio call (30-45 minutes)
@@ -114,7 +114,7 @@ Document the decision and rationale in the tracker.
 
 ## 8. Follow-Up Communication
 
-Send the appropriate template from [05-response-templates.md](./05-response-templates.md):
+Send the appropriate template (see internal templates):
 
 - Foundry welcome + next steps
 - Lab invitation + upcoming convenings
@@ -134,7 +134,7 @@ For accepted submissions:
 
 - Mark intake as completed in tracker
 - Store notes in appropriate location (public process docs vs. private submission details)
-- Ensure any sensitive information is handled per [06-privacy-safety-guide.md](./06-privacy-safety-guide.md)
+- Ensure any sensitive information is handled per [05-privacy-safety-guide.md](./05-privacy-safety-guide.md)
 
 ## Intake Tracker Fields
 
