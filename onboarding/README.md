@@ -19,14 +19,14 @@ We keep the *content* of applications private, but we publish the **process** so
 ## Process overview
 
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   Intake    │────▶│   Triage    │────▶│  Discovery  │────▶│   Routing   │
-│  (1 week)   │     │ (1-2 weeks) │     │ (2-3 weeks) │     │  (1 week)   │
-└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
-      │                   │                   │                   │
-      ▼                   ▼                   ▼                   ▼
- Acknowledge         Categorize          Understand           Place in
-   receipt           & assess             deeply              context
++-------------+     +-------------+     +-------------+     +-------------+
+|   Intake    |---->|   Triage    |---->|  Discovery  |---->|   Routing   |
+|  (1 week)   |     | (1-2 weeks) |     | (2-3 weeks) |     |  (1 week)   |
++-------------+     +-------------+     +-------------+     +-------------+
+       |                  |                   |                   |
+       v                  v                   v                   v
+  Acknowledge        Categorize          Understand          Place in
+    receipt           & assess            deeply              context
 ```
 
 ## Typical timelines
