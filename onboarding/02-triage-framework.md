@@ -65,7 +65,7 @@ If there's a good values and safety fit, we create or update a contributor entry
 |-----------|----------|
 | **Too early / too vague** | Invite to a Lab convening first, revisit later |
 | **Out of scope** | Point to other communities or resources better suited |
-| **High-risk contexts** | Limit documentation, use secure channels (see [06-privacy-safety-guide.md](./06-privacy-safety-guide.md)) |
+| **High-risk contexts** | Limit documentation, use secure channels (see [05-privacy-safety-guide.md](./05-privacy-safety-guide.md)) |
 | **Mixed signals** | Schedule a brief discovery call to clarify |
 | **Great person, unclear fit** | Add to Rolodex, stay in touch |
 
