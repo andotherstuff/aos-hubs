@@ -13,8 +13,7 @@ We keep the *content* of applications private, but we publish the **process** so
 | [02-triage-framework.md](./02-triage-framework.md) | How we decide whether something fits Foundry, Lab, or Studio |
 | [03-discovery-session-guide.md](./03-discovery-session-guide.md) | Guide for running discovery calls with founders |
 | [04-routing-guide.md](./04-routing-guide.md) | Detailed criteria for routing decisions |
-| [05-response-templates.md](./05-response-templates.md) | Email/message templates for common responses |
-| [06-privacy-safety-guide.md](./06-privacy-safety-guide.md) | Handling pseudonymous and at-risk participants |
+| [05-privacy-safety-guide.md](./05-privacy-safety-guide.md) | Handling pseudonymous and at-risk participants |
 
 ## Process overview
 
