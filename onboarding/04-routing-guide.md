@@ -97,7 +97,7 @@ There are times when we decide we're **not** the right place, at least for now. 
 
 When that happens, we try to:
 
-- Be honest and kind about why (see [05-response-templates.md](./05-response-templates.md))
+- Be honest and kind about why
 - Respect confidentiality and safety
 - Point to adjacent communities or resources when we know them
 - Leave the door open for future connection if appropriate
