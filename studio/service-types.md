@@ -1,35 +1,29 @@
 # Service Types in the Studio
 
-The Studio helps connect projects with people who can support them in three broad categories.
+The Studio connects projects with people in three broad categories.
 
-## 1. Product and Experience
+## Product and Experience
 
-Examples:
-
-- product strategy and roadmapping
+- Product strategy and roadmapping
 - UX research and participatory design
-- interaction and interface design
-- content strategy and information architecture
-- accessibility and inclusive design reviews
+- Interaction and interface design
+- Content strategy and information architecture
+- Accessibility and inclusive design reviews
 
-## 2. Management and Back Office
+## Management and Back Office
 
-Examples:
+- Project and program management
+- Governance and facilitation
+- Financial operations and basic accounting
+- Legal research and policy navigation (not legal advice)
+- Documentation and knowledge management
 
-- project and program management
-- governance and facilitation
-- financial operations and basic accounting
-- legal research and policy navigation (not legal advice)
-- documentation and knowledge management
+## Technical and Infrastructure
 
-## 3. Technical and Infrastructure
+- Software architecture and development
+- Protocol integration (Nostr, Bitcoin, Cashu)
+- Infrastructure design and hosting strategies
+- Security reviews and threat modeling
+- Data engineering and analytics
 
-Examples:
-
-- software architecture and development
-- protocol integration (e.g., Nostr, Bitcoin, Cashu)
-- infrastructure design and hosting strategies
-- security reviews and threat modeling (at an appropriate scope)
-- data engineering and analytics
-
-These categories are not rigid. Many contributors cross boundaries. The purpose is to help projects navigate the ecosystem and understand what kind of support they might need.
+Many contributors cross categories. These divisions help projects understand what kind of support exists.
