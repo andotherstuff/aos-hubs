@@ -1,14 +1,18 @@
 # Studio
 
-The Studio is our ecosystem Rolodex and services hub.
+The Studio is our ecosystem Rolodex and services hub - roughly 20 contributors who can help projects with product, design, operations, and technical work.
 
-It’s where we keep track of people and groups who can help projects with:
+Some are part of AOS. Many are not. What they share is a commitment to open, permissionless ecosystems and the communities those systems serve.
 
-- product strategy, UX, and research
-- design, branding, and storytelling
-- management, operations, and back office
-- software development and infrastructure
+We design the Studio to respect privacy and safety. Not everyone wants or can afford to be fully visible, especially in high-risk contexts.
 
-Some of these people are part of AOS. Many are not. What they share is a commitment to open, permissionless ecosystems and to the communities those systems are meant to serve.
+## Documentation
 
-We design the Studio to respect privacy and safety. Not everyone wants or can afford to be fully visible, especially in high-risk contexts. This directory explains how we structure the Rolodex, how contributors can be listed, and how projects can request support.
+| File | Description |
+|------|-------------|
+| [how-to-join.md](./how-to-join.md) | How to become a Studio contributor |
+| [service-types.md](./service-types.md) | Categories of support available |
+| [how-projects-request-support.md](./how-projects-request-support.md) | How projects get matched with contributors |
+| [contributor-profile-template.md](./contributor-profile-template.md) | Profile structure for the Rolodex |
+| [directory-structure.md](./directory-structure.md) | How we handle public vs private information |
+| [public-profiles/](./public-profiles/) | Optional public contributor profiles |
