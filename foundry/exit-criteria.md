@@ -1,48 +1,45 @@
 # Exit Criteria for Foundry Projects
 
-“Exit” doesn’t mean “you’re out.” It just means the project is in a different season.
+"Exit" doesn't mean "you're out." It means the project is in a different season.
 
 ## Graduation
 
-A project is considered to have “graduated” from the Foundry when:
+A project has "graduated" when:
 
-- It has a stable steward or team.
-- It has a clear direction and a functioning roadmap.
-- It no longer needs regular, structured support from AOS.
+- It has a stable steward or team
+- It has a clear direction and functioning roadmap
+- It no longer needs regular, structured support from AOS
 
-We may still:
-
-- Stay in relationship as peers and collaborators.
-- Feature the project in Lab convenings.
-- Refer people to the project through Studio connections.
+We may still stay in relationship as peers, feature the project in Lab convenings, or connect people through Studio.
 
 ## Pause
 
-Sometimes projects need to pause:
+Sometimes projects need to pause. People's lives change, contexts shift, priorities move.
 
-- People’s lives change.
-- Contexts shift.
-- Priorities move.
+We mark a project as "paused" when:
 
-We mark a project as “paused” when:
+- There has been no meaningful activity for a while
+- The founder tells us they need to step back
+- Continuing would create more pressure than progress
 
-- There has been no meaningful activity for a while.
-- The founder or steward tells us they need to step back.
-- Continuing to push would create more pressure than progress.
-
-A pause is not a failure. It’s an honest reflection of reality.
+A pause is not a failure. It's an honest reflection of reality. Paused projects can resume when circumstances change.
 
 ## Transformation
 
-Some projects evolve:
+Some projects evolve: the original idea morphs, two projects merge, or a piece spins out into its own tool.
 
-- The original idea morphs into something adjacent.
-- Two projects decide to merge.
-- A piece of a project spins out into its own tool or library.
+When that happens, we decide with the founder(s) whether the new shape continues the existing relationship or makes more sense as a fresh project with new orientation.
 
-When that happens, we talk with the founder(s) and decide whether:
+## Wind-down
 
-- The new shape is a continuation of the existing Foundry relationship, or
-- It makes more sense to treat it as a new project with a fresh orientation phase.
+Sometimes a project needs to stop rather than pause. The idea didn't work, the founder can't continue, or circumstances make it impossible to proceed.
 
-In all cases, we try to document the story in a way that respects people’s time, safety, and contributions.
+Wind-down is a formal process:
+
+1. **Conversation** - AOS and the founder discuss what's happening and confirm wind-down is the right path
+2. **Finalize open work** - Complete or hand off anything in progress; don't leave things half-done
+3. **Notify contributors** - Anyone involved in the project should know it's ending
+4. **Update documentation** - Mark repos, docs, and any public materials to reflect the project's status
+5. **Transition contributors** - Studio contributors find their next project or move on from AOS
+
+Wind-down is not failure in a shameful sense. It's an honest ending that respects everyone's time and contributions.
