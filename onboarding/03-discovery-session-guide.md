@@ -82,6 +82,8 @@ Internally, we document:
 - Collaboration preferences and constraints
 - Current funding situation
 - Ecosystem connections
+- Skillset and expertise
+- Contact information
 - Safety or privacy considerations
 - Our initial thoughts on Foundry, Lab, or Studio fit
 - Recommended next steps
@@ -118,6 +120,15 @@ AOS participants: [Names]
 
 ### Ecosystem connections
 - [Relevant communities, cohorts, conferences, collaborators]
+
+### Skillset
+- [Technical skills, domain expertise, languages, frameworks]
+
+### Contact
+- Signal: [handle]
+- GitHub: [username]
+- Nostr: [nip-05 or npub]
+- Other: [any other contact methods]
 
 ### Safety/privacy notes
 - [Any relevant considerations]
