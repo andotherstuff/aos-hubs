@@ -63,7 +63,7 @@ Best when you need expertise the group doesn't have.
 | If you need... | Consider... |
 |----------------|-------------|
 | Ongoing community around a topic | Special interest group |
-| Sustained exploration | Working group |
+| Sustained exploration with tangible outputs | Working group |
 | Build something fast | Hackathon |
 | Gather information | Research circle |
 | Make design decisions | Design session |
