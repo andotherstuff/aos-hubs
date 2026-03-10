@@ -2,6 +2,13 @@
 
 Lab activities take different forms. This isn't rigid - formats blend and evolve.
 
+## Special Interest Groups
+
+**What:** Ongoing group around a shared topic or domain, without a fixed end goal
+**Size:** 5-20 people | **Duration:** Open-ended | **Format:** Async chat + periodic calls or meetups
+
+Best for maintaining a community of practice around a topic. Unlike working groups, SIGs don't work toward a specific deliverable - they provide a standing space for people with shared interests to exchange knowledge, surface new questions, and spin off focused efforts as needed.
+
 ## Working Groups
 
 **What:** Small group exploring a question over time
@@ -55,6 +62,7 @@ Best when you need expertise the group doesn't have.
 
 | If you need... | Consider... |
 |----------------|-------------|
+| Ongoing community around a topic | Special interest group |
 | Sustained exploration | Working group |
 | Build something fast | Hackathon |
 | Gather information | Research circle |
